@@ -1,0 +1,55 @@
+html{
+    font-size: 62.5;
+}
+body{
+    background-color: rgb(177, 174, 174);
+    
+}
+
+.snaps{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    padding: 2rem;
+    letter-spacing: 1rem;
+    font-size:x-large;
+    
+    
+
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    color: black;
+    padding: 1rem;
+    gap: 1rem;
+    
+}
+
+.nav a{
+    color:black
+    
+}
+
+a{
+    
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+#placeholder{
+    background-color: white;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+
+#description{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+   
+}
+
+
